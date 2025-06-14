@@ -1,0 +1,12 @@
+{
+    "whatsapp:+5218712118861": [
+        {
+            "role": "user",
+            "content": "Hola"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Hola! ¿En qué te puedo ayudar?"
+        }
+    ]
+}
